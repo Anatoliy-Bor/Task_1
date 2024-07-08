@@ -1,6 +1,6 @@
-example = " Синхрофазатрон"
-print(example [1])
+example = "Синхрофазатрон"
+print(example [0])
 print(example[-1])
-print(example[8::])
+print(example[7::])
 print(example[::-1])
-print(example[::2])
+print(example[1::2])
